@@ -7,4 +7,7 @@ def aluno(request):
     return render(request,'aluno.html')
 
 
+def aluno(request):
+    return render(request, 'aluno.html')
+
 # Create your views here.
